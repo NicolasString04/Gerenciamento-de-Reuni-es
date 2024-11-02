@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "871455334318",
+    "project_id": "reunioesflutterprincipal",
+    "storage_bucket": "reunioesflutterprincipal.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871455334318:android:f23b502ef291626f8c323f",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmz2VU4GufBX3W3_9cGUEhqL0gFoAkb-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
